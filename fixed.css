@@ -1,0 +1,54 @@
+.fixed-sidebar
+{
+    width: 675px;
+    height: 300px;
+    display: flex;
+    margin: 1rem;
+    border: 0.5rem;
+    background-color: #f8fafc;
+}
+.navbar
+{width: 475px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e2e8f0;
+  
+   
+}
+.container-fixed
+{
+width: 200px;height: 300px;
+border: 1px solid #e2e8f0;
+display: flex;
+flex-direction: column;
+
+}
+.heading
+{
+    padding-left: 0.5rem;
+}
+.heading .heading-span{
+    margin-top: -1rem;
+    margin-bottom: -0.5rem;
+}
+.heading-navbar
+{display: flex;
+    background-color: peru;
+}
+.info
+{padding:0.5rem;
+    overflow-y: scroll;
+}
+.container-fixed .scroll-bar
+{
+    overflow-y: scroll;
+}
+
+
+
+
+
+
+
+
+
